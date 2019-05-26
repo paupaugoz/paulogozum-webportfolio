@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-import './components/Introduction.css'
+import './components/introduction.css'
 import './components/animate.css'
-import './components/Projects.css'
+import './components/projects.css';
 
 import Projects from './components/projects'
 import Introduction from './components/introduction'
@@ -13,7 +13,6 @@ class App extends Component {
     return (
       <div>
         <Introduction />
-        Hi
         <Projects />    
       </div>
     )
