@@ -1,0 +1,14 @@
+:root {
+  /*Blue, peach, pink, off-white*/
+  --blue: #365367;
+  --peach: #FFBAA2;
+  --white: #F9F4E6;
+  --pink: #F494AB;
+}
+
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+

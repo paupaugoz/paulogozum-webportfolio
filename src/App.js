@@ -1,16 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
-import './Components/Introduction.css'
-import Introduction from './Components/Introduction'
+import './components/Introduction.css'
+import './components/animate.css'
+import './components/Projects.css'
 
-function App() {
-  return (
+import Projects from './components/projects'
+import Introduction from './components/introduction'
+// import Test from './components/test'
+
+class App extends Component {
+  render () {
+    return (
       <div>
-      <Introduction />
-
-      </div>    
-  );
+        <Introduction />
+        <Projects />    
+      </div>
+    )
+  }
 }
 
 export default App;
