@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-ghpages/static/css/main.5a355eba.chunk.css",
-    "main.js": "/react-ghpages/static/js/main.c1350c67.chunk.js",
-    "main.js.map": "/react-ghpages/static/js/main.c1350c67.chunk.js.map",
-    "runtime~main.js": "/react-ghpages/static/js/runtime~main.47cdb9c8.js",
-    "runtime~main.js.map": "/react-ghpages/static/js/runtime~main.47cdb9c8.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/react-ghpages/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/react-ghpages/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/react-ghpages/index.html",
-    "precache-manifest.f09b9b2ce2433ce36a231782133f591c.js": "/react-ghpages/precache-manifest.f09b9b2ce2433ce36a231782133f591c.js",
-    "service-worker.js": "/react-ghpages/service-worker.js",
-    "static/css/main.5a355eba.chunk.css.map": "/react-ghpages/static/css/main.5a355eba.chunk.css.map",
-    "static/media/logo.svg": "/react-ghpages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/paulogozum-webportfolio/static/css/main.5a355eba.chunk.css",
+    "main.js": "/paulogozum-webportfolio/static/js/main.d85fa635.chunk.js",
+    "main.js.map": "/paulogozum-webportfolio/static/js/main.d85fa635.chunk.js.map",
+    "runtime~main.js": "/paulogozum-webportfolio/static/js/runtime~main.0e52e29d.js",
+    "runtime~main.js.map": "/paulogozum-webportfolio/static/js/runtime~main.0e52e29d.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/paulogozum-webportfolio/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/paulogozum-webportfolio/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/paulogozum-webportfolio/index.html",
+    "precache-manifest.13086a113dfeb7a2f0c359f72b343372.js": "/paulogozum-webportfolio/precache-manifest.13086a113dfeb7a2f0c359f72b343372.js",
+    "service-worker.js": "/paulogozum-webportfolio/service-worker.js",
+    "static/css/main.5a355eba.chunk.css.map": "/paulogozum-webportfolio/static/css/main.5a355eba.chunk.css.map",
+    "static/media/logo.svg": "/paulogozum-webportfolio/static/media/logo.5d5d9eef.svg"
   }
 }
