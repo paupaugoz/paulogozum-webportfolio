@@ -13,6 +13,7 @@ class App extends Component {
     return (
       <div>
         <Introduction />
+        Hi
         <Projects />    
       </div>
     )
