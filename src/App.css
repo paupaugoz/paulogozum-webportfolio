@@ -1,14 +1,27 @@
 :root {
   /*Blue, peach, pink, off-white*/
-  --blue: #365367;
-  --peach: #FFBAA2;
-  --white: #F9F4E6;
-  --pink: #F494AB;
+  --darkblue: #33546D;
+  --blue: #7FA7B8;
+  --offwhite: #F7EFED;
+  --red: #F1485B;
+  --black: #0D1b2A;
 }
 
 html, body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Slab', serif;
   text-align: center;
+  font-size: 62.5%;
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #202952;
+  padding: 0 10px;
 }
 
 
