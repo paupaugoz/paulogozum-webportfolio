@@ -13,13 +13,14 @@ class App extends Component {
   render () {
     return (
       <div>    
-       <div className="App">
+      
+        <Introduction />
+        <Projects />  
+         <div className="App">
        <AnimatedText >
         PAULO GOZUM
       </AnimatedText>
       </div>  
-        <Introduction />
-        <Projects />  
 
       
 
