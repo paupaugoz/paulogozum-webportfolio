@@ -16,20 +16,24 @@ export default class Introduction extends Component {
       
         <div className="wrapper">
 
-          <div className="flex-wrapper ">
+          <div className="flex-wrapper">
             
             <div className="image-container">
-              <img src="./whitelogo.png" className="animated fadeInDown img" alt="Logo" />
+              <img src="./blacklogo.png" className="animated fadeInDown img" alt="Logo" />
             </div>
-            <h1 id="name-header" className="animated fadeInDownBig offwhite">Hi I'm Gozum</h1>
-            <h1 className="animated fadeInDown delay-1s red raleway">I am a front-end web developer.</h1>
-            <h1 className="animated fadeInDown delay-2s blue raleway">Ad Majorem Dei Gloriam</h1>
-            <h1 id="last-header" className="animated fadeInDown delay-3s red raleway">Magis</h1>
-          </div>
+            <h1 id="name-header" className="animated fadeInDownBig heading red">Code For Your Co</h1>
+            <h2 className="animated fadeInDown delay-1s black ">Hi I'm Gozum</h2>
+            <h2 className="animated fadeInDown delay-2s black ">Front-end Developer based in Sunny Southern California</h2>
+            <h2 id="last-header" className="animated fadeInDown delay-3s black ">Magis</h2>
+            
+            
+            </div>
 
         </div>
 
       </div>
+
+
     )
   }
 }
