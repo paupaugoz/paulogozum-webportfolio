@@ -28,10 +28,37 @@
 	"buffers":
 	[
 		{
+			"file": "components/introduction.css",
+			"settings":
+			{
+				"buffer_size": 2210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/projects.css",
+			"settings":
+			{
+				"buffer_size": 2207,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/projects.jsx",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "components/introduction.jsx",
 			"settings":
 			{
-				"buffer_size": 1413,
+				"buffer_size": 1025,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -86,13 +113,13 @@
 	"expanded_folders":
 	[
 		"/Users/paupau/Desktop/react-ghpages",
+		"/Users/paupau/Desktop/react-ghpages/public",
 		"/Users/paupau/Desktop/react-ghpages/src",
-		"/Users/paupau/Desktop/react-ghpages/src/components",
-		"/Users/paupau/Desktop/pg-web-portfolio",
-		"/Users/paupau/Desktop/pg-web-portfolio/src"
+		"/Users/paupau/Desktop/react-ghpages/src/components"
 	],
 	"file_history":
 	[
+		"/Users/paupau/Desktop/react-ghpages/src/components/introduction.jsx",
 		"/Users/paupau/Desktop/react-ghpages/src/components/introduction.css",
 		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
@@ -107,7 +134,6 @@
 		"/Users/paupau/Desktop/react-ghpages/src/components/projects.css",
 		"/Users/paupau/Desktop/react-ghpages/src/App.js",
 		"/Users/paupau/Desktop/react-ghpages/src/components/projects.jsx",
-		"/Users/paupau/Desktop/react-ghpages/src/components/introduction.jsx",
 		"/Users/paupau/Desktop/pg-web-portfolio/src/App.js",
 		"/Users/paupau/Desktop/react-ghpages/package.json",
 		"/Users/paupau/Desktop/pg-web-portfolio/package.json",
@@ -264,67 +290,163 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "components/introduction.jsx",
+					"file": "components/introduction.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1413,
+						"buffer_size": 2210,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								275,
-								275
+								2210,
+								2210
 							]
 						],
 						"settings":
 						{
-							"SL.223.region_keys":
+							"SL.13.region_keys":
 							[
-								"SL.eslint.Highlights.|7a29cbdcff3e8420c8f64804287755c46f0a00cc9d3101c7131fa6e85f0211ea|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|f6bc144cb6c8c86040595f50c3efbd155f5de08258697835c847c4a4199a95ff|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b82b4850f578d0cdec16734a2e71b7917511ce17a9e1b2f82fb127c6c119ba9e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|e65bce38e43616ff00404a103d33ef5085ca7b67cd2b5564f58f0e12a8279228|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|8b8e63e60398f0a96d555e4cc6e405ef1aa8924b48b77380949acd0ab739b31d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|d36ddb4001ff343bbec8bed7117e5e1315c4f5ea0b59ba216316c00e60d6bf69|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|efb891036fda1dd692d9450ccc86e083c90a9d90438ffaf8ff2e79a817668ab4|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|5120c32adc769fbb19724b31aa2ecb559b93520a7f0a66230fb50eac6adacaf3|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|1623ff18c73fd0641f4b79191fe0db1246ab9dbe21afa99695a09df8df20fd34|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|68fbde9e81c9584fd7b6214f42e27f1da6891a44945ef0cec13dbc2b156390c6|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|79056c75cf53c4270e112d593e3c8b1bc9cce1647a61d5ef772db313418de2da|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|2843829f6cf27eada00908fba26b16b79c306563fbe667128baf58340c8d287a|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|0d7896ac89a927dc6aabc6d1547ea853b4b00a9bfcb5cf8d338af6f7d2eb3fc2|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|3049c5827bed7536717db544c595a334c348b61cc912fad2d1f236464615da7d|region.redish markup.error.sublime_linter|32"
 							],
-							"SL.298.region_keys":
+							"SL.404.region_keys":
 							[
-								"SL.eslint.Highlights.|aabb2b088558400e5dabd71fdc06d1400977936d7bb5f90aab8aa9de791e6e13|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e66d18d83512b96339749c180b1484270f6cb05f9e017a58ee7b0e2ccecb50c5|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|b82b4850f578d0cdec16734a2e71b7917511ce17a9e1b2f82fb127c6c119ba9e|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|efb891036fda1dd692d9450ccc86e083c90a9d90438ffaf8ff2e79a817668ab4|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|e65bce38e43616ff00404a103d33ef5085ca7b67cd2b5564f58f0e12a8279228|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|8b8e63e60398f0a96d555e4cc6e405ef1aa8924b48b77380949acd0ab739b31d|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|c812d18a537a2ab67c3576d6c96cdec86c26dc48d09e086238ea66253090cbec|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|00a3d4ce9cc7ec818aef4237e7ae8acd54a6e25eae17028efe31041e86b7fce2|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|1623ff18c73fd0641f4b79191fe0db1246ab9dbe21afa99695a09df8df20fd34|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|68fbde9e81c9584fd7b6214f42e27f1da6891a44945ef0cec13dbc2b156390c6|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|79056c75cf53c4270e112d593e3c8b1bc9cce1647a61d5ef772db313418de2da|region.redish markup.error.sublime_linter|32",
-								"sublime_linter.protected_regions",
-								"SL.eslint.Highlights.|2df2d6ebbf031fec48ac895a628d28d88c157e73a585fdd4cf476a0f72cf0127|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Highlights.|a993dfd6d08b4a2f9600482f2093763551c16480f007bcbce2a49742bf668c85|region.redish markup.error.sublime_linter|32",
-								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-								"SL.eslint.Highlights.|191f1bccb7376ccb614f31551723278562bd07841625b281a64a1b39895886fa|region.redish markup.error.sublime_linter|32"
 							],
-							"SL.369.region_keys":
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/projects.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.403.region_keys":
+							[
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/projects.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"SL.eslint.Highlights.|e2a426ce4076154a8f6e69b724514df5eeb3afac9953a35c7a9c92ef90e8e7b4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|232ba49c8f33360ff28ee2bb75e3ae38837df29640c5f5c7e93de25d8f300c00|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.402.region_keys":
+							[
+								"SL.eslint.Highlights.|576eb1380ff526bc9fb33f6821bcc3bb5027bce50e585503e0928010c9b8e3e3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|9f24dfbac44b3cb05c302af42019330861922c5be3e0479dfc5c6eb52cebe9f3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|5667195082f4592681908b8d18ff080a98522858133e4d2cc48d9902ab67647d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|7596394a8f629e0e82ab230d5286cd503f22d210382496299471e0270ca71bd6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|232ba49c8f33360ff28ee2bb75e3ae38837df29640c5f5c7e93de25d8f300c00|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|9fb0413c2727f73151553bb87856b0035789baffd5ea0d762ebd62e7bf25c0b3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|f65d5608169c1f4a3780f842b3366f999d2449277c0be031da50ea682ee89bd2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e89d587e6d67a17c5653fbd65a23b8a317097367e247504f0d3268cb2d2ebf36|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|cb98d2eeae5d84ec85f4cd1289fe3bd69410f8fd86450dbec45455d6fc000a7e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|cec6736b6464af2f0e9f5c7aa7bd085cc0d2366504d9b64e265e06fd8a243688|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|728df5b0bc9167fdca4fc6468301d4aff0316e4e4a1e3fea4b7ea66eb64321cd|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|ba65cf523f636c14c96d4c6248242f275c0772a51803ac0e8860f86f096362ff|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|df456f9ba70c8c9e0c45223f40751e4d983934925cdde94d3e3571fc547a1095|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|e2a426ce4076154a8f6e69b724514df5eeb3afac9953a35c7a9c92ef90e8e7b4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c23d2dc7e181824ddbc6fe1f9ac6070e465218583c21c150864202b5e831ed96|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/introduction.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1025,
+								1025
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+								"SL.eslint.Highlights.|e437a6238c30d6300b31adafd02af645ec29cac9347ec99d8c35764c1686e4d1|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|68fbde9e81c9584fd7b6214f42e27f1da6891a44945ef0cec13dbc2b156390c6|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.405.region_keys":
 							[
 								"SL.eslint.Highlights.|fa00eafca8b39eb7d55db3e460693960506269bc6c9151f0155e78de10cdf1e9|region.redish markup.error.sublime_linter|32",
 								"SL.eslint.Highlights.|b1fd06f25662e1e208da2f84934f61db0d5cb71348f8cc7947a91c035a13c338|region.redish markup.error.sublime_linter|32",
@@ -352,7 +474,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
