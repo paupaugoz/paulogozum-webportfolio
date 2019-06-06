@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Tem",
+				"TemplateMaterial"
+			],
+			[
+				"find",
+				"findByPk"
+			],
+			[
+				"templat",
+				"templatesData"
+			],
+			[
+				"post",
+				"postCreateTemplateForm"
+			],
+			[
+				"purchase",
+				"purchaseReportColumn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/introduction.jsx",
+			"settings":
+			{
+				"buffer_size": 1413,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/paupau/Desktop/react-ghpages",
+		"/Users/paupau/Desktop/react-ghpages/src",
+		"/Users/paupau/Desktop/react-ghpages/src/components",
+		"/Users/paupau/Desktop/pg-web-portfolio",
+		"/Users/paupau/Desktop/pg-web-portfolio/src"
+	],
+	"file_history":
+	[
+		"/Users/paupau/Desktop/react-ghpages/src/components/introduction.css",
+		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/paupau/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/paupau/Desktop/react-ghpages/src/App.css",
+		"/Users/paupau/Desktop/react-ghpages/.eslintrc.js",
+		"/Users/paupau/Desktop/react-ghpages/src/components/Introduction.jsx",
+		"/Users/paupau/Desktop/react-ghpages/src/components/animate.css",
+		"/Users/paupau/Desktop/react-ghpages/src/components/projects.css",
+		"/Users/paupau/Desktop/react-ghpages/src/App.js",
+		"/Users/paupau/Desktop/react-ghpages/src/components/projects.jsx",
+		"/Users/paupau/Desktop/react-ghpages/src/components/introduction.jsx",
+		"/Users/paupau/Desktop/pg-web-portfolio/src/App.js",
+		"/Users/paupau/Desktop/react-ghpages/package.json",
+		"/Users/paupau/Desktop/pg-web-portfolio/package.json",
+		"/Users/paupau/Desktop/HLDCfinal/.env",
+		"/Users/paupau/Desktop/HLDCfinal/routes/management.js",
+		"/Users/paupau/Desktop/HLDCfinal/routes/encoder.js",
+		"/Users/paupau/Desktop/HLDCfinal/views/partials/table.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/routes/auth.js",
+		"/Users/paupau/Desktop/HLDCfinal/views/engineer/engdashboard.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/index.js",
+		"/Users/paupau/Desktop/HLDCfinal/views/layouts/main.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/views/encoder/edashboard.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/views/management/mdashboard.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/views/index2.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/views/management/employees.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/views/management/viewprojects.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/views/partials/sidebar.handlebars",
+		"/Users/paupau/Desktop/HLDCfinal/routes/warehouse.js",
+		"/Users/paupau/Desktop/HLDCfinal/routes/engineer.js",
+		"/Users/paupau/Desktop/HLDCfinal/views/encoder/ecreatereq.handlebars",
+		"/Users/paupau/Desktop/hdlc-master/routes/management.js",
+		"/Users/paupau/Desktop/hdlc-master/views/partials/table.handlebars",
+		"/Users/paupau/Desktop/hdlc-master/.env",
+		"/Users/paupau/Downloads/bren/database.js",
+		"/Users/paupau/Downloads/bren/routes/encoder.js",
+		"/Users/paupau/Downloads/bren/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/bren/routes/management.js",
+		"/Users/paupau/Downloads/bren/index.js",
+		"/Users/paupau/Downloads/bren/views/partials/sidebar.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master 2/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/bren/.env",
+		"/Users/paupau/Downloads/HLDChbs-master 2/routes/warehouse.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/routes/warehouse.js",
+		"/Users/paupau/Downloads/Hidalgo/routes/encoder.js",
+		"/Users/paupau/Downloads/Hidalgo/routes/warehouse.js",
+		"/Users/paupau/Downloads/Hidalgo/routes/management.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/routes/management.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/encoder/epo.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest/routes/encoder.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/Hidalgo/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/Hidalgo/index.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/index.js",
+		"/Users/paupau/Downloads/hldc2/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/hldc 2/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest copy 2 2/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/layouts/main.handlebars",
+		"/Users/paupau/Downloads/hldc2/views/layouts/main.handlebars",
+		"/Users/paupau/Downloads/fix/routes/management.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/engineer/engcreatebom.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/management/mdashboard.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest/config/vars.js",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/encoder/ecreatereq2.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/management/createtemplate.handlebars",
+		"/Users/paupau/Downloads/HLDCfinaltest/views/encoder/ematerials.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/views/partials/sidebar.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/views/encoder/ematerials.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/routes/encoder.js",
+		"/Users/paupau/Downloads/HLDChbs-master/database.js",
+		"/Users/paupau/Downloads/HLDChbs-master/routes/auth.js",
+		"/Users/paupau/Downloads/HLDChbs-master/views/management/viewprojects.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/views/layouts/main.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/routes/management.js",
+		"/Users/paupau/Downloads/HLDChbs-master/views/management/projects.handlebars",
+		"/Users/paupau/Downloads/hldctest/index.js",
+		"/Users/paupau/Downloads/hldc2/index.js",
+		"/Users/paupau/Downloads/hldctest/views/partials/table.handlebars",
+		"/Users/paupau/Downloads/hldctest/routes/management.js",
+		"/Users/paupau/Downloads/hldctest/routes/engineer.js",
+		"/Users/paupau/Downloads/hldctest/.env",
+		"/Users/paupau/Desktop/sudo chown -R `id -un` :data:db.txt",
+		"/Users/paupau/Desktop/hldc/views/management/mdashboard.handlebars",
+		"/Users/paupau/Desktop/hldc/index.js",
+		"/Users/paupau/Desktop/hldc/views/index.handlebars",
+		"/Users/paupau/Desktop/HLDChbs-master/views/partials/table.handlebars",
+		"/Users/paupau/Desktop/HLDChbs-master/index.js",
+		"/Users/paupau/Downloads/changes/table.handlebars",
+		"/Users/paupau/Desktop/HLDChbs-master/views/management/createtemplate.handlebars",
+		"/Users/paupau/Desktop/HLDChbs-master/views/management/view.js",
+		"/Users/paupau/Downloads/HLDChbs-master/.env",
+		"/Users/paupau/Downloads/HLDChbs-master/views/management/createtemplate.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/views/management/test.handlebars",
+		"/Users/paupau/Downloads/HLDChbs-master/index.js",
+		"/Users/paupau/Desktop/HLDChbs-master/views/management/employees.handlebars",
+		"/Users/paupau/Desktop/HLDChbs-master/views/management/creatematerials.handlebars",
+		"/Users/paupau/Desktop/141831-Gozum,Guevarra,Hilario,Unabia,Soriano.js",
+		"/Users/paupau/Desktop/HLDChbs/views/management/ ",
+		"/Users/paupau/Desktop/HLDC/Hidalgo/views/management/projects.html",
+		"/Users/paupau/Desktop/HLDChbs/views/po.handlebars",
+		"/Users/paupau/Desktop/HLDChbs/views/creatematerials.handlebars",
+		"/Users/paupau/Desktop/HLDChbs/views/materials.handlebars",
+		"/Users/paupau/Desktop/HLDC/Hidalgo/views/management/createtemplate.html",
+		"/Users/paupau/Desktop/hldcmary/views/layouts/main.handlebars",
+		"/Users/paupau/Desktop/hldcmary/public/js/main.js",
+		"/Users/paupau/Desktop/hldcmary/views/creatematerials.handlebars",
+		"/Users/paupau/Desktop/hldcmary/views/materials.handlebars",
+		"/Users/paupau/Desktop/hldcmary/index.js",
+		"/Users/paupau/Desktop/hldcmary/views/employees.handlebars",
+		"/Users/paupau/Desktop/hldcmary/views/partials/table.handlebars",
+		"/Users/paupau/Desktop/hldcmary/views/po.handlebars",
+		"/Users/paupau/Desktop/HLDCfront/views/employees.handlebars",
+		"/Users/paupau/Desktop/HLDCfront/views/po.handlebars",
+		"/Users/paupau/Downloads/codepen_bdLRbE/js/index.js",
+		"/Users/paupau/Desktop/ref/views/add.handlebars",
+		"/Users/paupau/Desktop/HLDChenry/views/layouts/main.handlebars",
+		"/Users/paupau/Desktop/HLDChenry/index.js",
+		"/Users/paupau/Desktop/HLDChenry/views/index.handlebars",
+		"/Users/paupau/Desktop/HLDChenry/js/main.js",
+		"/Users/paupau/Desktop/HLDChenry/index.handlebars",
+		"/Users/paupau/Desktop/HLDC/app.js",
+		"/Users/paupau/Desktop/HLDC/Hidalgo/views/engineer/eviewprojects.html",
+		"/Users/paupau/Desktop/HLDC/Hidalgo/views/engineer/eapo.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/paupau/Desktop/react-ghpages"
+		},
+		{
+			"path": "/Users/paupau/Desktop/pg-web-portfolio"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/introduction.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"SL.223.region_keys":
+							[
+								"SL.eslint.Highlights.|7a29cbdcff3e8420c8f64804287755c46f0a00cc9d3101c7131fa6e85f0211ea|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|f6bc144cb6c8c86040595f50c3efbd155f5de08258697835c847c4a4199a95ff|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b82b4850f578d0cdec16734a2e71b7917511ce17a9e1b2f82fb127c6c119ba9e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|e65bce38e43616ff00404a103d33ef5085ca7b67cd2b5564f58f0e12a8279228|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8b8e63e60398f0a96d555e4cc6e405ef1aa8924b48b77380949acd0ab739b31d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|d36ddb4001ff343bbec8bed7117e5e1315c4f5ea0b59ba216316c00e60d6bf69|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|efb891036fda1dd692d9450ccc86e083c90a9d90438ffaf8ff2e79a817668ab4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|5120c32adc769fbb19724b31aa2ecb559b93520a7f0a66230fb50eac6adacaf3|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|1623ff18c73fd0641f4b79191fe0db1246ab9dbe21afa99695a09df8df20fd34|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|68fbde9e81c9584fd7b6214f42e27f1da6891a44945ef0cec13dbc2b156390c6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|79056c75cf53c4270e112d593e3c8b1bc9cce1647a61d5ef772db313418de2da|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|2843829f6cf27eada00908fba26b16b79c306563fbe667128baf58340c8d287a|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|0d7896ac89a927dc6aabc6d1547ea853b4b00a9bfcb5cf8d338af6f7d2eb3fc2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3049c5827bed7536717db544c595a334c348b61cc912fad2d1f236464615da7d|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.298.region_keys":
+							[
+								"SL.eslint.Highlights.|aabb2b088558400e5dabd71fdc06d1400977936d7bb5f90aab8aa9de791e6e13|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e66d18d83512b96339749c180b1484270f6cb05f9e017a58ee7b0e2ccecb50c5|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b82b4850f578d0cdec16734a2e71b7917511ce17a9e1b2f82fb127c6c119ba9e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|efb891036fda1dd692d9450ccc86e083c90a9d90438ffaf8ff2e79a817668ab4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e65bce38e43616ff00404a103d33ef5085ca7b67cd2b5564f58f0e12a8279228|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8b8e63e60398f0a96d555e4cc6e405ef1aa8924b48b77380949acd0ab739b31d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|c812d18a537a2ab67c3576d6c96cdec86c26dc48d09e086238ea66253090cbec|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|00a3d4ce9cc7ec818aef4237e7ae8acd54a6e25eae17028efe31041e86b7fce2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|1623ff18c73fd0641f4b79191fe0db1246ab9dbe21afa99695a09df8df20fd34|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|68fbde9e81c9584fd7b6214f42e27f1da6891a44945ef0cec13dbc2b156390c6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|79056c75cf53c4270e112d593e3c8b1bc9cce1647a61d5ef772db313418de2da|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|2df2d6ebbf031fec48ac895a628d28d88c157e73a585fdd4cf476a0f72cf0127|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|a993dfd6d08b4a2f9600482f2093763551c16480f007bcbce2a49742bf668c85|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|191f1bccb7376ccb614f31551723278562bd07841625b281a64a1b39895886fa|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.369.region_keys":
+							[
+								"SL.eslint.Highlights.|fa00eafca8b39eb7d55db3e460693960506269bc6c9151f0155e78de10cdf1e9|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b1fd06f25662e1e208da2f84934f61db0d5cb71348f8cc7947a91c035a13c338|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|b82b4850f578d0cdec16734a2e71b7917511ce17a9e1b2f82fb127c6c119ba9e|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|efb891036fda1dd692d9450ccc86e083c90a9d90438ffaf8ff2e79a817668ab4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e65bce38e43616ff00404a103d33ef5085ca7b67cd2b5564f58f0e12a8279228|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|e8ec732194b36d6f0b19586131c5a899f2828596c92841d221230c187df974f6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|bb86d5b94391b1dc8d29641732d87c0dba16d6a17c5a775c1961062f09e306bc|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8b8e63e60398f0a96d555e4cc6e405ef1aa8924b48b77380949acd0ab739b31d|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|1623ff18c73fd0641f4b79191fe0db1246ab9dbe21afa99695a09df8df20fd34|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|68fbde9e81c9584fd7b6214f42e27f1da6891a44945ef0cec13dbc2b156390c6|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|79056c75cf53c4270e112d593e3c8b1bc9cce1647a61d5ef772db313418de2da|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|ece732442904ebf9153a06738b8745ae554569c5a3dc5626c7575313aa998c70|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|3def12c28e8184f2cc7133e92b51509faf8f439e867576298c3d7db4a68a09e1|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|8833790beb7ec92fae5295b4d35268b2f969f985b81a2c2dcf080cc4aacc156f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|938e4ab9b9de145cacf52b2e2d34df3f87f40ceaa072edff89f0be86373590f0|region.redish markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HLDCfinaltest/index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
