@@ -4,12 +4,25 @@ export default class Projects extends Component {
   render() {
     return (
       <div id="intro-wrapper">
-        <div id="header"></div>
+        <div id="header">
+        <div class="icon-container">
+          <div className="icon-wrapper">
+            <a href="https://www.linkedin.com/in/jan-paulo-gozum-b563a5172/"><span class="fab fa-linkedin"></span></a>
+          </div>
+          <div className="icon-wrapper">
+            <a href="https://github.com/paupaugoz"><span class="fab fa-github-square"></span></a>
+          </div>
+        </div>
+        
+
+        
+        </div>
+       
         <div id="main-wrapper">
           <div className="image-container">
             <img src="./blacklogo.png" className="animated fadeInDown img" alt="Logo" />
           </div>
-          <h1 id="name-header" className="animated fadeInDownBig red">Code That Works</h1>
+          <h1 id="name-header" className="animated fadeInDownBig red">Paulo Gozum</h1>
           <h2 className="animated fadeInDown delay-1s black ">Hi I'm Gozum</h2>
           <h3 className="animated fadeInDown delay-2s black ">I'm a <span className="red">front end web developer </span>
             based in Southern California</h3>
@@ -17,8 +30,10 @@ export default class Projects extends Component {
             <span className="red"> align technology </span> with <span className="red">business
             objectives</span></h3>
         </div>
-        <div id="footer"><h1 className="red"></h1></div>
-
+        <div id="footer">
+        <div class="arrow-container">
+        <a href="#projects"><div className="animated fadeIn arrow"></div></a></div>      
+      </div>
       </div>
 
     )

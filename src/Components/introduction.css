@@ -8,11 +8,8 @@
   min-height: 55vh;
   height: 100vh;
   background-color: var(--offwhite);
-  display: flex;
-  
-  max-width: 100%;
-  
-  border: 1px solid red;
+  display: flex; 
+  max-width: 100%; 
   flex-direction: column;
   /*   line-height: 100vh; */
   /*   width:100%;
@@ -21,30 +18,46 @@ border:solid; */
 }
 
 
-#name-header {
-  font-size: 12vmin;
-  font-weight: 600;
-}
-#name-header:after {
-  content: "";
-  display: block;
-  margin: 0 auto;
-  width: 15vw;
-  padding-top: 20px;
-  border-bottom: 5px solid var(--red);
-}
 
 
 #header {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
   position: relative;
   height: 20vh;
   width: 100%;
-  border: 1px solid #CCC;
+  border: 1px solid red;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  margin-right: 15%;
+  width: 250px;
+  height:100px;
+  border: 1px solid red;
+}
+
+.icon-wrapper {
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid red;
+  color: var(--blue);
+}
+
+.fa-linkedin {
+  font-size: 5vw;
+}
+
+.fa-github-square {
+  font-size: 5vw;
 }
 
 #main-wrapper { 
   display: flex;
-  
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
@@ -52,7 +65,7 @@ border:solid; */
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid #CCC;
+ 
 }
 
 #main-wrapper h2 {
@@ -72,8 +85,29 @@ border:solid; */
   position: relative;
   height: 20vh;
   width: 100%;
-  border: 1px solid #CCC;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+.arrow-container {
+   padding: 5px;
+}
+
+.arrow {
+  box-sizing: border-box;
+  height: 3vw;
+  width: 3vw;
+  border-style: solid;
+  border-color: var(--black);
+  border-width: 0px 5px 5px 0px;
+  transform: rotate(45deg);
+  transition: border-width 150ms ease-in-out;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .big {
   font-size : 5em;
 }
@@ -87,7 +121,7 @@ border:solid; */
   left: 0;
   justify-content: center;
   align-items: center;
-  border: 1px solid #CCC;
+ 
   height: auto;
   width: auto;
   
@@ -102,7 +136,7 @@ border:solid; */
 }
 
 .border {
-  border-bottom: 1px solid red; 
+
   border-width: medium 5px;
 }
 
@@ -116,7 +150,7 @@ border:solid; */
 }
 
 #name-header {
-  font-size: 12vmin;
+  font-size: 8vmin;
   font-weight: 600;
 }
 
@@ -128,6 +162,15 @@ border:solid; */
   padding-top: 20px;
   border-bottom: 5px solid var(--red);
 }
+
+.view-button {
+  border: 1px solid red;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
 
 
@@ -150,9 +193,6 @@ border:solid; */
 }
 
 
-.bgtest {
-  background-image: url(./artboard.png);
-}
 
 .roboto {
   font-family: "Roboto", sans-serif;
