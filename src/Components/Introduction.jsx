@@ -18,9 +18,10 @@ export default class Projects extends Component {
           <div className="icon-wrapper">
             <a href="https://github.com/paupaugoz"><span class="fab fa-github-square"></span></a>
           </div>
-           <div className="icon-wrapper">
+          {/* <div className="icon-wrapper">
             <a href="https://github.com/paupaugoz"><h1>Contact Me</h1></a>
-          </div>
+          </div>*/}
+
         </div>
         
 
@@ -31,13 +32,12 @@ export default class Projects extends Component {
           <div className="image-container">
             <img src="./blacklogo.png" className="animated fadeInDown img" alt="Logo" />
           </div>
-          <h1 id="name-header" className="animated fadeInDownBig red">Paulo Gozum</h1>
-          <h2 className="animated fadeInDown delay-1s black ">Hi I'm Gozum</h2>
-          <h3 className="animated fadeInDown delay-2s black ">I'm a <span className="red">front end web developer </span>
-            based in Southern California</h3>
-          <h3 id="last-header" className="animated fadeInDown delay-3s black ">My goal is to
+          <h1 id="name-header" className="animated fadeInDownBig red">Hi I'm Gozum</h1>
+          <h2 className="animated fadeInDown delay-1s black ">I'm a <span className="red">front end web developer </span>
+            based in Southern California</h2>
+          <h2 id="last-header" className="animated fadeInDown delay-2s black ">My goal is to
             <span className="red"> align technology </span> with <span className="red">business
-            objectives</span></h3>
+            objectives</span></h2>
         </div>
         <div id="footer">
         <div class="arrow-container">

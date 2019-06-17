@@ -16,11 +16,7 @@ class App extends Component {
       
         <Introduction />
         <Projects />  
-         <div className="App">
-       <AnimatedText >
-        PAULO GOZUM
-      </AnimatedText>
-      </div>  
+         
 
       
 
