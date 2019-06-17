@@ -22,12 +22,19 @@ border:solid; */
 
 #header {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
+  justify-content: space-around;
   align-items: center;
   position: relative;
   height: 20vh;
   width: 100%;
   border: 1px solid red;
+  background-color: var(--blue);
+}
+
+.animated-container {
+  display: flex;
+
 }
 
 .icon-container {
@@ -45,15 +52,29 @@ border:solid; */
   display: flex;
   flex-direction: row;
   border: 1px solid red;
-  color: var(--blue);
+ 
 }
 
 .fa-linkedin {
+  transition: all .2s ease-in-out;
   font-size: 5vw;
+  color: var(--red);
+}
+
+.fa-linkedin:hover {
+  color: var(--darkblue);
+  transform: scale(1.2);
 }
 
 .fa-github-square {
   font-size: 5vw;
+  color: var(--red);
+  transition: transform .2s;
+}
+
+.fa-github-square:hover {
+  color: var(--darkblue);
+  transform: scale(1.2);
 }
 
 #main-wrapper { 
