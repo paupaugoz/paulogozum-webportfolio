@@ -9,9 +9,7 @@ export default class Projects extends Component {
         <div id="header">
         <div class="animated-container">
         <div class="animated fadeIn slower">
-        <AnimatedText  >
-        PAULO GOZUM
-      </AnimatedText>
+        
       </div>
         </div>
         <div class="animated fadeIn slower icon-container">
@@ -36,6 +34,9 @@ export default class Projects extends Component {
           <div className="image-container">
             <img src="./blacklogo.png" className="animated fadeIn slower img" alt="Logo" />
           </div>
+          <AnimatedText id="name-header" >
+        Hi I'm Gozum
+      </AnimatedText>
           <h1 id="name-header" className="animated fadeInDown red">Hi I'm Gozum</h1>
           <h2 className="animated fadeInDown delay-1s black ">I'm a <span className="red">front end web developer </span>
             based in Southern California</h2>
