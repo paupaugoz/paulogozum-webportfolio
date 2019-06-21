@@ -1,7 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+
 /*Full wrapper for intro to cover whole screen*/
 
 #intro-wrapper {
@@ -17,13 +14,17 @@
 border:solid; */
 }
 
-
+.test {
+  width: 200px;
+  height: 100px;
+  
+}
 
 
 #header {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
   position: relative;
   height: 20vh;
@@ -40,14 +41,13 @@ border:solid; */
 .icon-container {
   display: flex;
   flex-direction: row;
-  margin-right: 15%;
-  width: 250px;
-  height:100px;
-  /**border: 1px solid red;**/
+  width: 25%;
+  height: auto;
+
 }
 
 .icon-wrapper {
-  margin-left: 10px;
+  margin-left: 20px;
   margin-right: 10px;
   display: flex;
   flex-direction: row;
@@ -58,7 +58,7 @@ border:solid; */
 .fa-linkedin {
   transition: all .2s ease-in-out;
   font-size: 5vw;
-  color: var(--red);
+  color: var(--blue);
 }
 
 .fa-linkedin:hover {
@@ -66,9 +66,10 @@ border:solid; */
   transform: scale(1.2);
 }
 
+
 .fa-github-square {
   font-size: 5vw;
-  color: var(--red);
+  color: var(--blue);
   transition: transform .2s;
 }
 
@@ -77,7 +78,7 @@ border:solid; */
   transform: scale(1.2);
 }
 
-#main-wrapper { 
+#main-container { 
   display: flex;
   margin-left: auto;
   margin-right: auto;
@@ -86,21 +87,72 @@ border:solid; */
   flex-direction: column;
   justify-content: center;
   align-items: center;
- 
+
 }
 
-#main-wrapper h2 {
+#main-container h2 {
   font-weight: 400;
   margin-top: 5px;
   font-size: 2.5vw; 
+
 }
 
-#main-wrapper h3 {
+.test {
+  margin-top: 20px;
+}
+
+#main-container h3 {
   font-weight: 400;
   margin-top: 5px;
   font-size: 2vw; 
 }
+.intro-text-container {
+  
+}
+#links-container {
+  position: relative;
+  bottom: 30%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  min-height: 100px;
 
+}
+
+#links-container div {
+  margin: 0 10px;
+}
+
+.url-container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  width: 25%;
+  height: auto;
+
+}
+
+.margin-side-10 {
+  margin: 0 10px;
+}
+
+.url-container div {
+  margin: 0 10px;
+}
+
+.url-wrapper {
+
+}
+.url-wrapper h2{
+  margin-top: 0px !important;
+  font-size: 2vw !important;
+}
+
+.url-wrapper h2:hover {
+  color: var(--darkblue);
+}
 
 #footer {
   position: relative;
@@ -142,18 +194,20 @@ border:solid; */
   left: 0;
   justify-content: center;
   align-items: center;
- 
   height: auto;
   width: auto;
   
 }
 
 .img {
-  float: right;
+  
+  height: auto;
+  width: 100%;
   margin-left: 0;
   margin-right: 0;
   max-height: 20vh;
   max-width: 10vw;
+  min-width: 200px;
 }
 
 .border {
@@ -174,6 +228,8 @@ border:solid; */
 #name-header {
   font-size: 8vmin;
   font-weight: 600;
+   line-height: 1.1;
+  letter-spacing: 5px;
 }
 
 #name-header:after {
@@ -183,10 +239,11 @@ border:solid; */
   width: 15vw;
   padding-top: 20px;
   border-bottom: 5px solid var(--red);
+
 }
 
 .view-button {
-  border: 1px solid red;
+
   padding: 5px;
   margin-left: auto;
   margin-right: auto;

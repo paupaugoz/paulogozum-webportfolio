@@ -7,13 +7,27 @@ export default class Projects extends Component {
       <div id="intro-wrapper">
       <div class="animated fadeIn">
         <div id="header">
-        <div class="animated-container">
-        <div class="animated fadeIn slower">
+        <div class="logo-header"><div className="image-container">
+            <img src="./blacklogo.png" className="animated fadeIn slower img" alt="Logo" />
+          </div></div>
+       
         
-      </div>
+
+        
         </div>
-        <div class="animated fadeIn slower icon-container">
-          <div className="icon-wrapper">
+        </div>
+       
+        <div id="main-container">
+        <div id="links-container">
+          
+           <div className="url-container animated fadeIn slower">
+           <div className="url-wrapper blue"><a class="blue" href="#projects"><h2>Contact</h2></a></div>
+           <div className="url-wrapper"><a class="blue" href="./resume.pdf" download><h2>Resume</h2></a></div>
+           
+           </div>
+
+           <div class="animated fadeIn slower icon-container">
+           <div className="icon-wrapper">
             <a href="https://www.linkedin.com/in/jan-paulo-gozum-b563a5172/"><span class="fab fa-linkedin"></span></a>
           </div>
           <div className="icon-wrapper">
@@ -24,29 +38,23 @@ export default class Projects extends Component {
           </div>*/}
 
         </div>
-        
-
-        
-        </div>
         </div>
        
-        <div id="main-wrapper">
-          <div className="image-container">
-            <img src="./blacklogo.png" className="animated fadeIn slower img" alt="Logo" />
-          </div>
-          <AnimatedText id="name-header" >
+          <AnimatedText id="name-header test" >
         Hi I'm Gozum
       </AnimatedText>
-          <h1 id="name-header" className="animated fadeInDown red">Hi I'm Gozum</h1>
+          <div className="intro-text-container">
           <h2 className="animated fadeInDown delay-1s black ">I'm a <span className="red">front end web developer </span>
             based in Southern California</h2>
           <h2 id="last-header" className="animated fadeInDown delay-2s black ">My goal is to
             <span className="red"> align technology </span> with <span className="red">business
             objectives</span></h2>
         </div>
+        </div>
         <div id="footer">
         <div class="arrow-container">
-        <a href="#projects"><div className="animated fadeIn arrow"></div></a></div>      
+        <a href="#projects"><div className="animated fadeIn arrow"></div></a>
+        </div>      
       </div>
       </div>
 

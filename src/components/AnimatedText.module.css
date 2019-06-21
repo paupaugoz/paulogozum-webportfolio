@@ -8,7 +8,7 @@
 
 .animatedTextContent {
   color: var(--red);
-  font-size: 3vw;
+  font-size: 8vmin;
   font-weight: 600;
 
   line-height: 1.1;

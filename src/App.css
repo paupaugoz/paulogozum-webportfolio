@@ -30,7 +30,12 @@ html, body {
 
 a:visited { text-decoration: none; color: none; }
 a:hover { text-decoration: none; color: red; }
-a:focus { text-decoration: none; color:yellow; }
+a:focus { text-decoration: none; color: none; }
 a:active { text-decoration: none; color: red }
+a:link { text-decoration: none; color: none}
 
 
+a {
+   text-decoration:none;
+   color: black;
+}
