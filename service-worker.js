@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/paulogozum-webportfolio/precache-manifest.73d5e4a67b4df3132528b9559f466903.js"
+  "/paulogozum-webportfolio/precache-manifest.5b7bf8f05f4bea9bb08e67a88599fbb8.js"
 );
 
 self.addEventListener('message', (event) => {
