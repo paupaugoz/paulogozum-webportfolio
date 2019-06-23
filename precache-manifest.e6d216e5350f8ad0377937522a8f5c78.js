@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dfc7bb0c3abf49a4a5cf933cb0d0d7f",
+    "revision": "4856a48100345f990760fb3c6e34fede",
     "url": "/paulogozum-webportfolio/index.html"
   },
   {
-    "revision": "62de87860be2e6d9cf0f",
-    "url": "/paulogozum-webportfolio/static/css/main.961c42dd.chunk.css"
+    "revision": "ad4b55d851902044d5d4",
+    "url": "/paulogozum-webportfolio/static/css/main.8e25bf5e.chunk.css"
   },
   {
     "revision": "44a3971d75741c0b24b1",
     "url": "/paulogozum-webportfolio/static/js/2.851869a3.chunk.js"
   },
   {
-    "revision": "62de87860be2e6d9cf0f",
+    "revision": "ad4b55d851902044d5d4",
     "url": "/paulogozum-webportfolio/static/js/main.49529b37.chunk.js"
   },
   {
