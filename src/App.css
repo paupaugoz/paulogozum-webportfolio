@@ -1,23 +1,22 @@
 :root {
   /*Blue, peach, pink, off-white*/
-  --darkblue: #33546D;
-  --blue: #7FA7B8;
+  --purple: #5647E6;
+  --darkblue: #202646;
   --offwhite: #F7EFED;
-  --red: #F1485B;
+  --red: #FF5454;
   --black: #0D1b2A;
+  --green: #9CC39A;
 }
 
 html, body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
-  font-size: 62.5%;
+  /**font-size: 62.5%;**/
+  font-size: calc(40px + (45 - 14) * ((100vw - 300px) / (2560 - 300)));
   height: 100%;
   scroll-behavior: smooth;
 }
 
-.heading {
-  font-family: 'Raleway', sans-serif;
-}
 .App {
   text-align: center;
   display: flex;
@@ -38,4 +37,32 @@ a:link { text-decoration: none; color: none}
 a {
    text-decoration:none;
    color: black;
+}
+
+.darkblue { 
+  color: var(--darkblue);
+      }
+
+.blue {
+  color: var(--blue);
+}
+
+.offwhite {
+  color: var(--offwhite);
+}
+
+.red {
+  color: var(--red);
+}
+
+.black {
+  color: var(--black);
+}
+
+.green {
+  color: var(--green);
+}
+
+li {
+  list-style-type: circle;
 }

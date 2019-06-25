@@ -1,25 +1,24 @@
 import React, { Component } from 'react';
 import './App.css';
-import './components/introduction.css'
 import './components/animate.css'
 import './components/projects.css';
+import './components/divider.css';
 
-import { AnimatedText }  from './components/AnimatedText';
+import { AnimatedText }  from './AnimatedText';
 import Projects from './components/projects'
 import Introduction from './components/introduction'
-import aboutMe from './components/aboutme'
+import Divider from './components/divider'
+import AboutMe from './components/aboutme'
 // import Test from './components/test'
 
 class App extends Component {
   render () {
     return (
-      <div>    
-      
-        <Introduction /> 
-        <aboutMe />
-        <Projects /> 
+      <div>
 
-      
+        <Introduction />
+        <Divider />
+        <AboutMe />
 
       </div>
     );

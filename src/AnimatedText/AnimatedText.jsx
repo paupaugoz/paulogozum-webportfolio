@@ -2,6 +2,8 @@ import React, { useState, useRef } from "react";
 
 import classes from "./AnimatedText.module.css";
 
+
+
 const AnimatedText = ({ textColor, overlayColor, children, ...props }) => {
   const containerElem = useRef(null);
   const initialMousePos = { x: 0, y: 0 };
@@ -48,6 +50,7 @@ const AnimatedText = ({ textColor, overlayColor, children, ...props }) => {
       </h1>
     </section>
   );
+
 };
 
 export { AnimatedText } ;

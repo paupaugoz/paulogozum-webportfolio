@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/*Full wrapper for intro to cover whole screen*/
+
+
+
+@media screen and (min-width: 576px) {
+	
+ 
+}
+
+@media screen and (min-width: 768px) {
+
+.divider-container {
+	width: 100%;
+	height: 25vh;
+	background-color: var(--offwhite);
+}
+
+.divider-wrapper {
+	clip-path: polygon(50% 100%, 0 0, 100% 0);
+	width: 100%;
+	height: 100%;
+	background-color: var(--black);
+}
+}
+
+@media screen (min-width: 992px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+.scrolled {
+  position: fixed !important;
+  transition: all 1s ease-in-out;
+}
+
+}
