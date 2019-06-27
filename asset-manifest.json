@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/paulogozum-webportfolio/static/css/main.0b19d4e0.chunk.css",
+    "main.css": "/paulogozum-webportfolio/static/css/main.40c91f81.chunk.css",
     "main.js": "/paulogozum-webportfolio/static/js/main.319f4579.chunk.js",
     "main.js.map": "/paulogozum-webportfolio/static/js/main.319f4579.chunk.js.map",
     "runtime~main.js": "/paulogozum-webportfolio/static/js/runtime~main.0e52e29d.js",
@@ -8,8 +8,8 @@
     "static/js/2.073c82ca.chunk.js": "/paulogozum-webportfolio/static/js/2.073c82ca.chunk.js",
     "static/js/2.073c82ca.chunk.js.map": "/paulogozum-webportfolio/static/js/2.073c82ca.chunk.js.map",
     "index.html": "/paulogozum-webportfolio/index.html",
-    "precache-manifest.cda833a2cb32e93263ea1a53ac2a948b.js": "/paulogozum-webportfolio/precache-manifest.cda833a2cb32e93263ea1a53ac2a948b.js",
+    "precache-manifest.b94abd589a855ce44db92d44fd07e94a.js": "/paulogozum-webportfolio/precache-manifest.b94abd589a855ce44db92d44fd07e94a.js",
     "service-worker.js": "/paulogozum-webportfolio/service-worker.js",
-    "static/css/main.0b19d4e0.chunk.css.map": "/paulogozum-webportfolio/static/css/main.0b19d4e0.chunk.css.map"
+    "static/css/main.40c91f81.chunk.css.map": "/paulogozum-webportfolio/static/css/main.40c91f81.chunk.css.map"
   }
 }
