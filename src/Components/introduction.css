@@ -401,6 +401,7 @@ letter-spacing: 0.05em;
   }
 }
 
+
 @media screen and (min-width: 1921px) {
   #header {
     background-color: var(--darkblue);
@@ -425,6 +426,10 @@ letter-spacing: 0.05em;
   margin-bottom: 30px;
   font-size: 1em;
 }
+  #skills-table-container:
+  {
+    margin-top: 30px;
+  }
 }
 
 /* End media queries*/
