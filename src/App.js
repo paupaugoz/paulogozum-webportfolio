@@ -20,6 +20,8 @@ class App extends Component {
         <Introduction />
         <Divider />
         <AboutMe />
+        <Divider />
+        <Projects />
 
 
       </div>
