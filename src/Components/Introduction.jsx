@@ -46,15 +46,9 @@ export default class Projects extends Component {
                   <div className="home-wrapper">
                   <a href="#main-container"><span className="fas fa-home"></span></a>
                   </div>
-                  <div className="name-header-wrapper">
-                  
-
-
+                  <div className="name-header-wrapper">     
                   <h3 className="name-header-text">Paulo Gozum</h3>
                   </div>
-
-
-                  
                   <div className="icon-wrapper">
                     <a title="Designed by [https://fontawesome.com/icons/address-book?style=solid] from www.fontawesome.com"
                       href="mailto:paugozum1@gmail.com?Subject=Job%20Inquiry" target="_top">
