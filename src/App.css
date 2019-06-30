@@ -19,13 +19,12 @@ html, body {
 }
 
 .App {
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
   min-height: 100vh;
   background-color: #202952;
-  padding: 0 10px;
+  flex-direction: column;
 }
 
 a:visited { text-decoration: none; color: none; }
@@ -62,6 +61,10 @@ a {
 
 .green {
   color: var(--green);
+}
+
+.purple {
+  color: var(--purple);
 }
 
 li {

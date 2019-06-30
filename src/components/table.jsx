@@ -58,7 +58,7 @@ class Table extends React.Component {
    render() {
       return (
          <div id="skills-table-container">
-            <h1 className='skills-title'>What I Use</h1>
+            <h1 className='skills-title purple'>What I Use</h1>
             <table className='skills-table'>
                <tbody>
                   <tr className="">{this.renderSkillsTableHeader()}</tr>

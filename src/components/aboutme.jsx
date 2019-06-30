@@ -2,12 +2,14 @@ import React, { Component } from 'react'
 import './aboutme.css';
 import Table from './table';
 
+
 export default class AboutMe extends Component {
 
   render() {
     return (
+<div id="about-me-container">
 
-      <div id="about-me-container">
+     
 
         {/*<header>
           <div id="about-me-header" className={this.state.scrolled ? 'nav scrolled' : 'nav'}>
@@ -60,9 +62,11 @@ export default class AboutMe extends Component {
           <div id="skills-container">  
             <Table />
           </div>
+         
         </main>
-      </div>
-
+     
+       
+</div>
     )
   }
 
