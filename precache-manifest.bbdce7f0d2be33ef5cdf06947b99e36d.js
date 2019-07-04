@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "526ba63c564c856f1952dd774c5d082e",
+    "revision": "698a42d8fc0465e11f8e7edee9d35da5",
     "url": "/paulogozum-webportfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paulogozum-webportfolio/static/css/2.a11e1ddf.chunk.css"
   },
   {
-    "revision": "95c6dd1fe75e80dc6399",
+    "revision": "e594d043b23a4abadaa0",
     "url": "/paulogozum-webportfolio/static/css/main.45f9c85b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paulogozum-webportfolio/static/js/2.d8317453.chunk.js"
   },
   {
-    "revision": "95c6dd1fe75e80dc6399",
-    "url": "/paulogozum-webportfolio/static/js/main.f3b3c398.chunk.js"
+    "revision": "e594d043b23a4abadaa0",
+    "url": "/paulogozum-webportfolio/static/js/main.27f82af8.chunk.js"
   },
   {
     "revision": "9e990e806d6ee9742d0a",
